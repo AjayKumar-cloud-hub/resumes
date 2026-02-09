@@ -1,0 +1,171 @@
+(node:8892) Warning: Currently the require() provided to the main script embedded into single-executable applications only supports loading built-in modules.
+To load a module from disk after the single executable application is launched, use require("module").createRequire().
+Support for bundled module loading or virtual file systems are under discussions in https://github.com/nodejs/single-executable
+(Use `gitlab-lsp --trace-warnings ...` to show where the warning was created)
+(node:8892) ExperimentalWarning: Single executable application is an experimental feature and might change at any time
+(node:8892) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-02-09T12:01:32:892 [info]: fetch: Detected no proxy settings
+2026-02-09T12:01:32:907 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2026-02-09T12:01:32:999 [info]: [PersistentStorage] Initializing storage at: C:\Users\AjayKumar Basnineni\.gitlab\storage.json
+2026-02-09T12:01:33:001 [info]: [PersistentStorage] Persistent storage initialized successfully
+2026-02-09T12:01:33:016 [info]: GitLab Language Server is starting (v8.41.0)
+2026-02-09T12:01:33:019 [info]: Applying 7 endpoints to connection.
+(node:8892) [FSTDEP022] FastifyWarning: The router options for ignoreTrailingSlash property access is deprecated. Please use "options.routerOptions" instead for accessing router options. The router options will be removed in `fastify@6`.
+2026-02-09T12:01:33:150 [info]: [HttpServer]: server listening on http://127.0.0.1:65239/
+2026-02-09T12:01:33:153 [info]: GitLab Language Server has started
+2026-02-09T12:01:33:183 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2026-02-09T12:01:33:184 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2026-02-09T12:01:33:184 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2026-02-09T12:01:33:185 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2026-02-09T12:01:33:185 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2026-02-09T12:01:33:229 [info]: [VirtualFileSystemService] Registering watchers
+2026-02-09T12:01:33:293 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2026-02-09T12:02:33:026 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:02:33:049 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:02:33:049 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:03:33:027 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:03:33:029 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:03:33:029 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:04:33:038 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:04:33:039 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:04:33:039 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:05:33:042 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:05:33:044 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:05:33:045 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:05:37:899 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2026-02-09T12:05:38:472 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gitattributes
+2026-02-09T12:05:38:487 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gitignore
+2026-02-09T12:05:38:516 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.project
+2026-02-09T12:05:38:518 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings
+2026-02-09T12:05:38:519 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/HELP.md
+2026-02-09T12:05:38:534 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/build.gradle
+2026-02-09T12:05:38:536 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/gradle
+2026-02-09T12:05:38:537 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/gradlew
+2026-02-09T12:05:38:540 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/gradlew.bat
+2026-02-09T12:05:38:549 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/settings.gradle
+2026-02-09T12:05:38:551 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src
+2026-02-09T12:06:33:047 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:06:33:049 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:06:33:049 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:06:43:436 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/pom.xml
+2026-02-09T12:06:53:485 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.m2e.core.prefs
+2026-02-09T12:06:53:487 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.project
+2026-02-09T12:06:58:604 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target
+2026-02-09T12:06:58:833 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes
+2026-02-09T12:06:58:837 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF
+2026-02-09T12:07:03:453 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF
+2026-02-09T12:07:03:456 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF/MANIFEST.MF
+2026-02-09T12:07:03:457 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target
+2026-02-09T12:07:03:459 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle
+2026-02-09T12:07:03:464 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.project
+2026-02-09T12:07:03:471 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/bin
+2026-02-09T12:07:03:472 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes
+2026-02-09T12:07:03:479 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/bin/src/main/java/com/example/demo/GitHubDemoApplication.class
+2026-02-09T12:07:03:481 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/bin/src/test/java/com/example/demo/GitHubDemoApplicationTests.class
+2026-02-09T12:07:03:483 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/main/java/com/example/demo/GitHubDemoApplication.java
+2026-02-09T12:07:03:484 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/test-classes
+2026-02-09T12:07:03:485 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/test-classes
+2026-02-09T12:07:03:487 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle/9.3.0/checksums/checksums.lock
+2026-02-09T12:07:03:489 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle/9.3.0/fileChanges/last-build.bin
+2026-02-09T12:07:03:511 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle/9.3.0/fileHashes/fileHashes.lock
+2026-02-09T12:07:03:806 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+2026-02-09T12:07:03:809 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/main/java/com/example/demo/GitHubDemoApplication.java
+2026-02-09T12:07:03:810 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF/MANIFEST.MF
+2026-02-09T12:07:03:812 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF/maven
+2026-02-09T12:07:03:813 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/application.properties
+2026-02-09T12:07:03:815 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.classpath
+2026-02-09T12:07:08:559 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/main/java/com/example/demo/GitHubDemoApplication.java
+2026-02-09T12:07:08:567 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/test/java/com/example/demo/GitHubDemoApplicationTests.java
+2026-02-09T12:07:08:572 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF
+2026-02-09T12:07:08:578 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/application.properties
+2026-02-09T12:07:08:600 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/com
+2026-02-09T12:07:08:603 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/test-classes/com
+2026-02-09T12:07:08:610 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.core.prefs
+2026-02-09T12:07:08:627 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.core.prefs
+2026-02-09T12:07:08:633 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.core.prefs
+2026-02-09T12:07:08:635 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.core.prefs
+2026-02-09T12:07:08:636 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.core.prefs
+2026-02-09T12:07:08:639 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.core.prefs
+2026-02-09T12:07:08:640 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.core.prefs
+2026-02-09T12:07:08:650 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.classpath
+2026-02-09T12:07:08:652 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.core.prefs
+2026-02-09T12:07:09:151 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.settings/org.eclipse.jdt.apt.core.prefs
+2026-02-09T12:07:09:152 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF
+2026-02-09T12:07:09:154 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF
+2026-02-09T12:07:13:456 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF/MANIFEST.MF
+2026-02-09T12:07:13:462 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle/9.3.0/checksums/checksums.lock
+2026-02-09T12:07:13:463 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle/9.3.0/fileChanges/last-build.bin
+2026-02-09T12:07:13:464 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle/9.3.0/fileHashes/fileHashes.lock
+2026-02-09T12:07:13:464 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+2026-02-09T12:07:13:467 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/main/java/com/example/demo/GitHubDemoApplication.java
+2026-02-09T12:07:13:468 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/test/java/com/example/demo/GitHubDemoApplicationTests.java
+2026-02-09T12:07:13:472 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF/MANIFEST.MF
+2026-02-09T12:07:13:473 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF/maven
+2026-02-09T12:07:13:475 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/application.properties
+2026-02-09T12:07:13:477 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/com/example/demo/GitHubDemoApplication.class
+2026-02-09T12:07:13:480 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/test-classes/com/example/demo/GitHubDemoApplicationTests.class
+2026-02-09T12:07:13:493 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.classpath
+2026-02-09T12:07:13:498 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/.classpath
+2026-02-09T12:07:13:500 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/main/java/com/example/demo/GitHubDemoApplication.java
+2026-02-09T12:07:13:502 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/test/java/com/example/demo/GitHubDemoApplicationTests.java
+2026-02-09T12:07:13:503 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF
+2026-02-09T12:07:13:504 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/application.properties
+2026-02-09T12:07:13:505 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/com
+2026-02-09T12:07:13:505 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/test-classes/com
+2026-02-09T12:07:13:507 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/main/java/com/example/demo/GitHubDemoApplication.java
+2026-02-09T12:07:13:512 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/src/test/java/com/example/demo/GitHubDemoApplicationTests.java
+2026-02-09T12:07:13:518 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/META-INF
+2026-02-09T12:07:13:532 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/application.properties
+2026-02-09T12:07:13:539 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/classes/com
+2026-02-09T12:07:13:540 [warning]: [RepositoryService] No matching repository found for file file:///d%3A/Ajay/Natraj%20sir%20classes/git%20practice/GitHub_Demo_Application/target/test-classes/com
+2026-02-09T12:07:33:048 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:07:33:051 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:07:33:052 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:08:33:049 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:08:33:052 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:08:33:052 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:09:33:054 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:09:33:085 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:09:33:086 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:10:33:057 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:10:33:090 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:10:33:091 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:10:37:949 [warning]: {"message":"request to https://snowplowprd.trx.gitlab.net/com.snowplowanalytics.snowplow/tp2 failed, reason: socket hang up","type":"system","errno":"ECONNRESET","code":"ECONNRESET"}
+2026-02-09T12:10:37:950 [warning]: Failed to send telemetry event, this warning can be safely ignored
+2026-02-09T12:10:37:950 [warning]: {"message":"request to https://snowplowprd.trx.gitlab.net/com.snowplowanalytics.snowplow/tp2 failed, reason: socket hang up","type":"system","errno":"ECONNRESET","code":"ECONNRESET"}
+2026-02-09T12:11:33:064 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:11:33:071 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:11:33:073 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:12:33:064 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:12:33:067 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:12:33:068 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:13:33:073 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:13:33:075 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:13:33:076 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:14:33:086 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:14:33:088 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:14:33:089 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:15:33:093 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:15:33:095 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:15:33:095 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:16:33:106 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:16:33:108 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:16:33:108 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:17:33:106 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:17:33:109 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:17:33:109 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:18:33:116 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:18:33:118 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:18:33:118 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:19:33:121 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:19:33:124 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:19:33:124 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:20:33:134 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:20:33:140 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:20:33:141 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:21:33:150 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:21:33:151 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:21:33:153 [warning]: [UserPersistentStorage] No user ID available, cannot set value
+2026-02-09T12:22:33:159 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:22:33:160 [warning]: [UserPersistentStorage] No user ID available
+2026-02-09T12:22:33:160 [warning]: [UserPersistentStorage] No user ID available, cannot set value
